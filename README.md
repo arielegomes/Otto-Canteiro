@@ -4,9 +4,11 @@
 Universidade do Estado da Bahia (UNEB)
 Disciplina: Computação Aplicada à Engenharia | Orientador: Prof. Robson Marinho
 Discentes: Ariele Gomes, Luis Gustavo, Micaele Pereira e Raiane Borges
+
 📝 1. Introdução
 
 Este repositório documenta a evolução do robô Otto DIY. Após a conclusão e validação do modelo bípede, iniciamos uma nova etapa de desenvolvimento focada em adaptar a plataforma para o canteiro de obras. O objetivo desta fase é transformar o robô em uma ferramenta de assistência técnica, capaz de realizar inspeções e transporte de materiais leves, garantindo maior estabilidade e eficiência em ambientes de construção civil.
+
 📊 2. Modelagem do Sistema
 
 Para a nova etapa, atualizamos a modelagem para atender às mudanças mecânicas:
