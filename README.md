@@ -21,9 +21,9 @@ Para a nova etapa, atualizamos a modelagem para atender às mudanças mecânicas
 
 ⚙️ 3. Implementação e Hardware
 
-    Microcontrolador: Arduino Nano ().
+    Microcontrolador: Arduino Nano.
 
-    Sistema de Tração: Motores DC com tração por esteiras (substituindo os servomotores originais para ganho de torque e estabilidade).
+    Sistema de Tração: Motores com tração por esteiras (substituindo os servomotores originais para ganho de torque e estabilidade).
 
     Estrutura: Chassis impresso em 3D, projetado para maior durabilidade e proteção dos componentes eletrônicos.
 
@@ -47,7 +47,7 @@ Para a nova etapa, atualizamos a modelagem para atender às mudanças mecânicas
 
 Diferente do modelo bípede anterior, o objetivo desta etapa de otimização é transformar o Otto em um assistente de transporte e inspeção com as seguintes características:
 
-    Sistema de Locomoção: Transição para tração por esteiras (lagartas) motorizadas (Motores + Driver ) para maior estabilidade e transposição de obstáculos em superfícies irregulares de obra.
+    Sistema de Locomoção: Transição para tração por esteiras (lagartas) motorizadas (rodas 360° ) para maior estabilidade e transposição de obstáculos em superfícies irregulares de obra.
 
     Função de Monitoramento: Detecção autônoma de distância de paredes e obstáculos para auxílio na conferência de medidas de projeto e navegação segura.
 
