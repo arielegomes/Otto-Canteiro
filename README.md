@@ -1,15 +1,15 @@
 # Otto-Canteiro
-🤖 Robótica Aplicada à Engenharia: Evolução do Projeto Otto
+ Robótica Aplicada à Engenharia: Evolução do Projeto Otto
 
 Universidade do Estado da Bahia (UNEB)
 Disciplina: Computação Aplicada à Engenharia | Orientador: Prof. Robson Marinho
 Discentes: Ariele Gomes, Luis Gustavo, Micaele Pereira e Raiane Borges
 
-📝 1. Introdução
+ 1. Introdução
 
 Este repositório documenta a evolução do robô Otto DIY. Após a conclusão e validação do modelo bípede, iniciamos uma nova etapa de desenvolvimento focada em adaptar a plataforma para o canteiro de obras. O objetivo desta fase é transformar o robô em uma ferramenta de assistência técnica, capaz de realizar inspeções e transporte de materiais leves, garantindo maior estabilidade e eficiência em ambientes de construção civil.
 
-📊 2. Modelagem do Sistema
+ 2. Modelagem do Sistema
 
 Para a nova etapa, atualizamos a modelagem para atender às mudanças mecânicas:
 
@@ -19,7 +19,7 @@ Para a nova etapa, atualizamos a modelagem para atender às mudanças mecânicas
 
     Segurança: Refinamento dos parâmetros de detecção de obstáculos, visando uma navegação mais segura em ambientes dinâmicos.
 
-⚙️ 3. Implementação e Hardware
+ 3. Implementação e Hardware
 
     Microcontrolador: Arduino Nano.
 
@@ -31,19 +31,19 @@ Para a nova etapa, atualizamos a modelagem para atender às mudanças mecânicas
 
     Firmware: Código em C++ adaptado para controle de motores DC e gerenciamento da nova configuração do robô.
 
-📂 4. Estrutura do Repositório
+ 4. Estrutura do Repositório
 
-    📂 Codigo/: Firmware de controle para o sistema de tração por esteiras.
+     Codigo/: Firmware de controle para o sistema de tração por esteiras.
 
-    📂 documentacao/: Relatórios técnicos sobre as alterações mecânicas e testes realizados.
+     documentacao/: Relatórios técnicos sobre as alterações mecânicas e testes realizados.
 
-    📂 hardware/: Arquivos CAD (.STL) do novo chassis, esteiras e módulos de carga.
+     hardware/: Arquivos CAD (.STL) do novo chassis, esteiras e módulos de carga.
 
-    📂 modelagem/: Modelos de Redes de Petri atualizados.
+     modelagem/: Modelos de Redes de Petri atualizados.
 
-    📂 processo-montagem/: Registros em foto e vídeo da evolução do protótipo.
+     processo-montagem/: Registros em foto e vídeo da evolução do protótipo.
 
-🚀 5. Objetivo desta Etapa
+ 5. Objetivo desta Etapa
 
 Diferente do modelo bípede anterior, o objetivo desta etapa de otimização é transformar o Otto em um assistente de transporte e inspeção com as seguintes características:
 
